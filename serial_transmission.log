@@ -1,0 +1,589 @@
+2026-04-12 10:52:28,503 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:52:36,432 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:53:39,765 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:55:29,892 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:55:34,950 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:55:34,951 - ERROR - No COM port specified
+2026-04-12 10:55:46,731 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:55:46,739 - ERROR - No COM port specified
+2026-04-12 10:55:57,807 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:55:57,808 - ERROR - No COM port specified
+2026-04-12 10:59:25,266 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:59:28,811 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:59:28,821 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 10:59:45,540 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 10:59:45,549 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 10:59:51,924 - INFO - Transmission started
+2026-04-12 10:59:51,926 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 10:59:54,133 - ERROR - Write error: Write timeout
+2026-04-12 10:59:57,131 - INFO - Stopped
+2026-04-12 11:00:01,684 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:00:01,695 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 11:00:12,174 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:00:12,185 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 11:00:14,555 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:00:14,565 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 11:00:21,821 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:00:21,830 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 11:03:06,558 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:03:10,627 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:03:11,242 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:03:32,729 - INFO - Transmission started
+2026-04-12 11:03:32,731 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:32,931 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:33,132 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:33,334 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:33,534 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:33,736 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:33,937 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:34,138 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:34,339 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:34,540 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:34,741 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:34,942 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:35,143 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:35,345 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:35,546 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:35,747 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:35,948 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:36,151 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:36,352 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:36,553 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:36,754 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:36,955 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:37,156 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:37,356 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:37,558 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:37,758 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:37,960 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:38,161 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:38,361 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:38,562 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:38,764 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:38,965 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:39,165 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:39,366 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:39,568 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:39,768 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:39,970 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:40,170 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:40,372 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:40,574 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:40,775 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:40,976 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:41,178 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:41,380 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:41,579 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:41,782 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:41,981 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:42,184 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:42,384 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:42,586 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:42,786 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:42,987 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:43,188 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:43,389 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:43,591 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:43,791 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:43,993 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:44,193 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:44,395 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:44,596 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:44,797 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:44,998 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:45,199 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:45,400 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:45,601 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:45,802 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:46,003 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:46,204 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:46,406 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:46,606 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:46,807 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:47,009 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:47,210 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:47,411 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:47,614 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:47,813 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:48,014 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:48,215 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:48,417 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:48,618 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:48,819 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:49,019 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:49,221 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:49,422 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:49,622 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:49,823 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:50,025 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:50,226 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:50,428 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:50,629 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:50,830 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:51,031 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:51,232 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:51,433 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:51,635 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:51,836 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:52,038 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:52,239 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:52,441 - INFO - Stopped
+2026-04-12 11:03:54,775 - INFO - Log cleared
+2026-04-12 11:03:56,721 - INFO - Transmission started
+2026-04-12 11:03:56,724 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:56,925 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:57,126 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:57,327 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:57,528 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:57,730 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:57,931 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:58,132 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:58,333 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:58,534 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:58,735 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:58,936 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:59,138 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:59,339 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:59,540 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:59,741 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:03:59,942 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:00,143 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:00,344 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:00,547 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:00,747 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:00,949 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:01,150 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:01,351 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:01,552 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:01,753 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:01,955 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:02,156 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:02,357 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:02,558 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:02,759 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:02,960 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:03,162 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:03,362 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:03,564 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:03,765 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:03,966 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:04,169 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:04,370 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:04,571 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:04,771 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:04,972 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:05,174 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:05,374 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:05,575 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:05,776 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:05,978 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:06,180 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:06,380 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:06,581 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:06,783 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:06,983 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:07,184 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:07,385 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:07,586 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:07,787 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:07,989 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:08,189 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:08,391 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:08,592 - INFO - Stopped
+2026-04-12 11:04:13,855 - INFO - Log cleared
+2026-04-12 11:04:16,360 - INFO - Transmission started
+2026-04-12 11:04:16,363 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:16,564 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:16,765 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:16,967 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:17,168 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:17,369 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:17,570 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:17,771 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:17,972 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:18,173 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:18,374 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:18,575 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:18,776 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:18,977 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:19,178 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:19,379 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:19,580 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:19,781 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:19,982 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:20,184 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:20,385 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:20,586 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:20,787 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:20,988 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:21,103 - INFO - Log cleared
+2026-04-12 11:04:21,187 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:21,388 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:21,589 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:21,790 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:21,992 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:22,193 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:22,394 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:22,596 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:22,796 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:22,997 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:23,198 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:23,400 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:23,601 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:23,802 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:04:24,004 - INFO - Stopped
+2026-04-12 11:07:45,705 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:07:49,424 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:07:50,059 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:08:00,686 - INFO - Transmission started
+2026-04-12 11:08:00,687 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:00,889 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:01,090 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:01,291 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:01,492 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:01,693 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:01,894 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:02,095 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:02,296 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:02,498 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:02,700 - INFO - Stopped
+2026-04-12 11:08:07,143 - INFO - Transmission started
+2026-04-12 11:08:07,145 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:07,346 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:07,547 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:07,748 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:07,949 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:08,153 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:08,353 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:08,554 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:08:08,757 - INFO - Stopped
+2026-04-12 11:08:10,354 - INFO - Disconnected successfully
+2026-04-12 11:08:14,053 - INFO - Log cleared
+2026-04-12 11:08:22,181 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:08:22,840 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:08:30,140 - INFO - Disconnected successfully
+2026-04-12 11:08:31,244 - INFO - Log cleared
+2026-04-12 11:10:31,708 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:10:32,316 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:10:35,566 - INFO - Sent command: 'IP' → [73, 80, 13, 10] (4 bytes)
+2026-04-12 11:10:36,630 - INFO - Command completed, port closed
+2026-04-12 11:10:41,350 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:10:41,352 - INFO - Sent command: 'IP' → [73, 80, 13, 10] (4 bytes)
+2026-04-12 11:10:42,410 - INFO - Command completed, port closed
+2026-04-12 11:14:36,991 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:15:35,728 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:15:36,330 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:15:39,162 - INFO - Sent command: 'Esc R' → [69, 83, 67, 32, 82, 13, 10] (7 bytes)
+2026-04-12 11:15:40,227 - INFO - Command completed, port closed
+2026-04-12 11:15:54,995 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:15:54,998 - INFO - Sent command: 'Esc R' → [69, 83, 67, 32, 82, 13, 10] (7 bytes)
+2026-04-12 11:15:56,051 - INFO - Command completed, port closed
+2026-04-12 11:16:48,736 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:16:48,743 - INFO - Sent command: 'Esc R' → [69, 83, 67, 32, 82, 13, 10] (7 bytes)
+2026-04-12 11:16:49,809 - INFO - Command completed, port closed
+2026-04-12 11:18:46,118 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:19:04,286 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:19:04,905 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:19:06,856 - INFO - Sent command: 'LULU' → [76, 85, 76, 85, 13, 10] (6 bytes)
+2026-04-12 11:19:07,916 - INFO - Command completed, port closed
+2026-04-12 11:19:18,815 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:19:19,493 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:19:22,360 - INFO - Sent command: 'LULU' → [76, 85, 76, 85, 13, 10] (6 bytes)
+2026-04-12 11:19:23,426 - INFO - Command completed, port closed
+2026-04-12 11:19:39,235 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:19:39,866 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:19:43,693 - INFO - Log cleared
+2026-04-12 11:19:45,622 - INFO - Sent command: 'P' → [80, 13, 10] (3 bytes)
+2026-04-12 11:19:46,679 - INFO - Command completed, port closed
+2026-04-12 11:19:54,606 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:19:54,609 - INFO - Sent command: 'luulu' → [76, 85, 85, 76, 85, 13, 10] (7 bytes)
+2026-04-12 11:19:55,670 - INFO - Command completed, port closed
+2026-04-12 11:20:04,923 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:20:04,926 - INFO - Sent command: 'CP' → [67, 80, 13, 10] (4 bytes)
+2026-04-12 11:20:05,979 - INFO - Command completed, port closed
+2026-04-12 11:20:11,934 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:20:11,940 - INFO - Sent command: 'kjlkjlkj' → [75, 74, 76, 75, 74, 76, 75, 74, 13, 10] (10 bytes)
+2026-04-12 11:20:13,000 - INFO - Command completed, port closed
+2026-04-12 11:20:55,843 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:20:55,851 - INFO - Sent command: 'CP' → [67, 80, 13, 10] (4 bytes)
+2026-04-12 11:20:56,909 - INFO - Command completed, port closed
+2026-04-12 11:20:58,636 - INFO - Log cleared
+2026-04-12 11:21:22,475 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:21:22,477 - INFO - Transmission started
+2026-04-12 11:21:22,478 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:22,680 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:22,881 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:23,084 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:23,285 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:23,486 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:23,687 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:23,888 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:24,089 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:24,292 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:24,493 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:24,694 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:24,895 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:25,096 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:25,297 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:25,499 - INFO - Stopped
+2026-04-12 11:21:31,054 - INFO - Transmission started
+2026-04-12 11:21:31,069 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:31,271 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:31,471 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:31,673 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:31,874 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:32,075 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:32,276 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:32,477 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:32,678 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:32,879 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:33,080 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:33,281 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:33,482 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:33,683 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:33,884 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:34,085 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:34,286 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:34,487 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:34,689 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:34,889 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:35,090 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:35,291 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:35,493 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:35,694 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:35,895 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:36,096 - INFO - Stopped
+2026-04-12 11:21:37,468 - INFO - Log cleared
+2026-04-12 11:21:41,124 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:21:41,444 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:21:42,973 - INFO - Transmission started
+2026-04-12 11:21:42,974 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:43,175 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:43,376 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:43,577 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:43,779 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:43,980 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:44,181 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:44,383 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:44,583 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:44,785 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:21:44,987 - INFO - Stopped
+2026-04-12 11:24:00,503 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:24:21,931 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:24:22,555 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:24:25,275 - INFO - Transmission started
+2026-04-12 11:24:25,284 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:25,484 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:25,686 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:25,887 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:26,088 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:26,289 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:26,492 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:26,693 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:26,895 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:27,096 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:27,297 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:24:27,499 - INFO - Stopped
+2026-04-12 11:25:03,930 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:25:33,958 - ERROR - Invalid input: invalid literal for int() with base 10: 'basahan'
+2026-04-12 11:25:57,402 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:25:57,471 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 11:25:58,918 - INFO - Transmission started
+2026-04-12 11:26:00,939 - ERROR - Write error: Write timeout
+2026-04-12 11:26:03,825 - INFO - Log cleared
+2026-04-12 11:26:07,049 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:26:07,077 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 11:26:11,777 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:26:12,381 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:26:16,017 - INFO - Stopped
+2026-04-12 11:26:18,194 - INFO - Transmission started
+2026-04-12 11:26:18,201 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:18,402 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:18,603 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:18,805 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:19,006 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:19,207 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:19,409 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:19,609 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:19,811 - INFO - Sent: '=777700' (7 bytes)
+2026-04-12 11:26:20,013 - INFO - Stopped
+2026-04-12 11:26:33,260 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:26:39,209 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:26:39,832 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:26:48,737 - INFO - Transmission started
+2026-04-12 11:26:48,745 - INFO - Sent: '=888800' (7 bytes)
+2026-04-12 11:26:48,946 - INFO - Sent: '=888800' (7 bytes)
+2026-04-12 11:26:49,148 - INFO - Sent: '=888800' (7 bytes)
+2026-04-12 11:26:49,349 - INFO - Sent: '=888800' (7 bytes)
+2026-04-12 11:26:49,550 - INFO - Sent: '=888800' (7 bytes)
+2026-04-12 11:26:49,751 - INFO - Sent: '=888800' (7 bytes)
+2026-04-12 11:26:49,953 - INFO - Sent: '=888800' (7 bytes)
+2026-04-12 11:26:50,154 - INFO - Stopped
+2026-04-12 11:27:02,874 - INFO - Transmission started
+2026-04-12 11:27:02,883 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:03,084 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:03,286 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:03,487 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:03,688 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:03,890 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:04,091 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:04,292 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:04,495 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:04,696 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:27:04,898 - INFO - Stopped
+2026-04-12 11:27:15,868 - INFO - Transmission started
+2026-04-12 11:27:15,885 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:16,086 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:16,288 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:16,489 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:16,690 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:16,891 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:17,092 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:17,293 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:17,493 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:17,695 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:17,897 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:18,098 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:18,298 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:18,500 - INFO - Sent: '=000000' (7 bytes)
+2026-04-12 11:27:18,701 - INFO - Stopped
+2026-04-12 11:30:10,484 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:30:21,594 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:30:21,596 - INFO - Transmission started
+2026-04-12 11:30:21,596 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:21,799 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:22,000 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:22,202 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:22,402 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:22,603 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:22,805 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:23,005 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:23,206 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:23,407 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:23,608 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:23,809 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 11:30:24,010 - INFO - Stopped
+2026-04-12 11:30:37,305 - INFO - Sent command: 'T' → [84, 13, 10] (3 bytes)
+2026-04-12 11:30:38,372 - INFO - Command completed, port closed
+2026-04-12 11:31:13,890 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:31:13,892 - INFO - Sent command: '87, 78, 89' → [56, 55, 44, 32, 55, 56, 44, 32, 56, 57, 13, 10] (12 bytes)
+2026-04-12 11:31:14,958 - INFO - Command completed, port closed
+2026-04-12 11:33:06,555 - INFO - Log cleared
+2026-04-12 11:33:09,384 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:33:09,384 - INFO - Sent command: 'T' → [84, 13, 10] (3 bytes)
+2026-04-12 11:33:10,452 - INFO - Command completed, port closed
+2026-04-12 11:33:25,340 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:33:25,344 - INFO - Sent command: 'P' → [80, 13, 10] (3 bytes)
+2026-04-12 11:33:26,402 - INFO - Command completed, port closed
+2026-04-12 11:33:41,046 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 11:33:41,050 - INFO - Sent command: 'xT' → [88, 84, 13, 10] (4 bytes)
+2026-04-12 11:33:42,113 - INFO - Command completed, port closed
+2026-04-12 11:43:48,799 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 11:52:32,946 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:09:47,361 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:10:33,516 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 12:10:35,529 - ERROR - Command failed: Write timeout
+2026-04-12 12:10:36,535 - INFO - Command completed, port closed
+2026-04-12 12:10:50,292 - INFO - Connected to COM3 at 9600 baud
+2026-04-12 12:10:52,295 - ERROR - Command failed: Write timeout
+2026-04-12 12:10:53,310 - INFO - Command completed, port closed
+2026-04-12 12:10:53,560 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:10:54,264 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:10:58,270 - INFO - Sent command: 'LST' → [76, 83, 84, 13, 10] (5 bytes)
+2026-04-12 12:10:59,340 - INFO - Command completed, port closed
+2026-04-12 12:11:00,681 - INFO - Log cleared
+2026-04-12 12:11:05,886 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:11:05,890 - INFO - Sent command: 'LST' → [76, 83, 84, 13, 10] (5 bytes)
+2026-04-12 12:11:06,952 - INFO - Command completed, port closed
+2026-04-12 12:11:11,184 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:11:11,467 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:14:35,664 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:14:57,205 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:14:57,851 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:15:27,206 - INFO - Transmission started
+2026-04-12 12:15:27,216 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:27,451 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:27,652 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:27,852 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:28,052 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:28,254 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:28,455 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:28,656 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:28,857 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:29,058 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:29,261 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:29,462 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:29,662 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:29,864 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:30,064 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:30,267 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:30,469 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:30,670 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:15:30,870 - INFO - Stopped
+2026-04-12 12:15:32,242 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:15:32,585 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:21:03,195 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:21:21,581 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:21:22,176 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:21:26,504 - INFO - Transmission started
+2026-04-12 12:21:26,505 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:26,707 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:26,909 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:27,109 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:27,360 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:27,561 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:27,762 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:27,963 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:28,164 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:28,367 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:28,568 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:21:28,769 - INFO - Stopped
+2026-04-12 12:23:59,065 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:24:30,719 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:25:09,738 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:25:10,386 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:25:27,155 - INFO - Sent command: 'LST' → [76, 83, 84, 13, 10] (5 bytes)
+2026-04-12 12:25:28,215 - INFO - Command completed, port closed
+2026-04-12 12:25:45,175 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:25:45,178 - INFO - Sent command: 'PRN' → [80, 82, 78, 13, 10] (5 bytes)
+2026-04-12 12:25:46,240 - INFO - Command completed, port closed
+2026-04-12 12:25:54,386 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:25:54,668 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:25:56,930 - INFO - Sent command: 'PRN' → [80, 82, 78, 13, 10] (5 bytes)
+2026-04-12 12:25:57,986 - INFO - Command completed, port closed
+2026-04-12 12:31:01,450 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:31:14,246 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:31:14,848 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:31:18,998 - INFO - Sent command: 'PRN' → [80, 82, 78, 13, 10] (5 bytes)
+2026-04-12 12:31:20,063 - INFO - Command completed, port closed
+2026-04-12 12:31:26,793 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:31:27,074 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:31:29,079 - INFO - Transmission started
+2026-04-12 12:31:29,090 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:29,291 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:29,493 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:29,694 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:29,895 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:30,096 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:30,298 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:30,499 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:30,700 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:30,902 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:31,103 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:31,305 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:31,506 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:31,706 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:31,908 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:32,109 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:32,310 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:32,511 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:32,713 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:32,913 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:33,115 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:33,316 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:33,518 - INFO - Sent: '=555500' (7 bytes)
+2026-04-12 12:31:33,720 - INFO - Stopped
+2026-04-12 12:31:38,879 - INFO - Found 3 COM port(s): COM3, COM4, COM5
+2026-04-12 12:31:39,186 - INFO - Connected to COM5 at 9600 baud
+2026-04-12 12:31:40,761 - INFO - Reception started
+2026-04-12 12:31:43,076 - INFO - Stopped
