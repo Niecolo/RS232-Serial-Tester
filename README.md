@@ -8,24 +8,35 @@ A comprehensive serial communication testing tool with an intuitive GUI for test
 
 ![Serial Port Tester Screenshot](assets/screenshot.png)
 
-## ✨ Features
+## Features
 
 ### Operating Modes
 
 - **Transmit Mode**: Send continuous weight data to external displays
-- **Receive Mode**: Monitor and log incoming serial data
+- **Receive Mode**: Monitor and log incoming serial data with real-time processing
 - **Command Mode**: Send predefined or custom commands to serial devices
 
 ### Key Capabilities
 
-- 🔌 **Easy Connection Management**: Quick COM port selection with auto-refresh
-- 📊 **Real-time Logging**: Color-coded communication log with timestamps
-- ⚙️ **Flexible Configuration**: Full serial parameter customization
-- 💾 **Persistent Settings**: Automatic configuration saving/loading
-- 🔄 **Auto-Reconnect**: Automatic reconnection on connection loss
-- 📝 **Command History**: Quick access to recently used commands
-- ⌨️ **Keyboard Shortcuts**: Efficient workflow with hotkeys
-- 🎨 **Modern Dark Theme**: Easy on the eyes for extended use
+- Easy Connection Management: Quick COM port selection with auto-refresh
+- Real-time Logging: Color-coded communication log with timestamps
+- Flexible Configuration: Full serial parameter customization
+- Persistent Settings: Automatic configuration saving/loading
+- Auto-Reconnect: Automatic reconnection on connection loss
+- Command History: Quick access to recently used commands
+- Keyboard Shortcuts: Efficient workflow with hotkeys
+- Modern Dark Theme: Easy on the eyes for extended use
+
+### Advanced Features
+
+- **Robust Baudrate Management**: Real-time baudrate changes with automatic reconnection
+- **Enhanced Data Reception**: Smart buffering and line reconstruction for complete messages
+- **Port Conflict Resolution**: Automatic detection and release of conflicting processes
+- **Auto Baudrate Detection**: Multi-strategy detection for various device types
+- **Non-Blocking Operations**: Freeze-resistant UI during all operations
+- **Clean Data Display**: Raw scale data without operational clutter
+- **Window Resizing**: Proper window stretching when maximized
+- **Threading Safety**: Prevents freezing during concurrent operations
 
 ## 📋 Requirements
 
@@ -105,6 +116,8 @@ pyinstaller --onefile --windowed --icon="RS232.ico" --name="Serial Port Tester" 
 ### Operating Modes
 
 #### Transmit Mode
+<img width="1364" height="718" alt="image" src="https://github.com/user-attachments/assets/7c164cbb-5c6e-468d-8549-cf83a2fc88be" />
+
 Sends weight data continuously to connected devices (e.g., big displays).
 
 - Enter a base weight value (0-999999)
@@ -112,6 +125,8 @@ Sends weight data continuously to connected devices (e.g., big displays).
 - Weight digits are reversed as per protocol requirements
 
 #### Receive Mode
+<img width="1360" height="717" alt="image" src="https://github.com/user-attachments/assets/2563e227-e4c3-4321-8fad-e9ebbfa56e95" />
+
 Monitors incoming serial data and displays it in the log.
 
 - Connect to scales with COM assignment set to Demand or Continuous Output
@@ -119,6 +134,8 @@ Monitors incoming serial data and displays it in the log.
 - Supports ASCII data decoding
 
 #### Command Mode
+<img width="1362" height="719" alt="image" src="https://github.com/user-attachments/assets/8e54e30b-3f53-440c-9da0-3055fb19e709" />
+
 Send commands to serial devices (e.g., weighing indicators).
 
 - Select from predefined commands or enter custom ones
@@ -233,11 +250,6 @@ The application automatically saves your settings to `serial_tester_config.json`
 }
 ```
 
-## ⬇️ Download Prebuilt Version
-
-You can download the ready-to-use compiled EXE from the [Releases Page](https://github.com/yourusername/serial-port-tester/releases).
-
-Just download, extract, and run - no installation required.
 
 ---
 
@@ -248,8 +260,9 @@ Just download, extract, and run - no installation required.
 - Check Device Manager (Windows) or `ls /dev/tty*` (Linux)
 - Try refreshing the port list with the 🔄 button or Ctrl+R
 
-### Access Denied
+### Access Denied / Port Conflicts
 - Another application may be using the port
+- Use the "Release Port" button to automatically close conflicting processes
 - Close any other serial terminal applications
 - Try disconnecting and reconnecting the device
 
@@ -257,11 +270,28 @@ Just download, extract, and run - no installation required.
 - Verify baud rate matches the device settings
 - Check cable connections (TX/RX may need to be swapped)
 - Ensure the device is configured to send data
+- Try the "Auto-Detect Baudrate" feature for unknown devices
+
+### Application Freezing
+- The application now has non-blocking operations to prevent freezing
+- If issues persist, restart the application
+- Check for resource conflicts with other applications
 
 ### Connection Drops
 - Enable "Auto-Reconnect" in command mode
 - Check for cable issues or loose connections
 - Review the log file for error details
+- Use robust baudrate management for stable connections
+
+### Redundant Data Display
+- Application now shows clean, non-duplicate data
+- Smart buffering prevents fragmented messages
+- Raw scale data displayed without operational clutter
+
+### Window Resizing Issues
+- Window now properly stretches when maximized
+- Grid-based layout ensures proper component scaling
+- All UI elements resize correctly with window changes
 
 ## 📥 Installation
 
@@ -273,6 +303,39 @@ Just download, extract, and run - no installation required.
 > ✅ **This is a portable application**. It will not write to system directories or modify your system. All settings are saved in the same folder.
 
 ---
+
+## Recent Improvements (Version 2.0.0)
+
+### Performance & Stability
+- **Non-Blocking Operations**: Eliminated application freezing during baudrate changes and connections
+- **Threading Safety**: Improved concurrent operation handling with proper synchronization
+- **Memory Management**: Enhanced buffer management to prevent memory leaks
+- **Error Recovery**: Better handling of connection drops and device errors
+
+### Data Reception Enhancements
+- **Smart Buffering**: Intelligent line reconstruction for complete message display
+- **Real-Time Processing**: Immediate data display without delays
+- **Clean Output**: Raw scale data without redundant logging or operational clutter
+- **Fragmentation Prevention**: Eliminates broken data display issues
+
+### User Interface Improvements
+- **Window Resizing**: Proper stretching when maximized using grid-based layout
+- **Responsive Design**: All UI elements scale correctly with window changes
+- **Clean Data Display**: Simplified logging shows only essential scale data
+- **Visual Feedback**: Enhanced connection and status indicators
+
+### Advanced Features
+- **Robust Baudrate Management**: Real-time baudrate changes with automatic reconnection
+- **Port Conflict Resolution**: Automatic detection and release of conflicting processes
+- **Auto Baudrate Detection**: Multi-strategy detection for various device types
+- **Enhanced Command Processing**: Improved command mode with better error handling
+
+### Bug Fixes
+- Fixed application freezing during stop operations and baudrate changes
+- Resolved redundant data logging issues
+- Corrected window resizing problems
+- Eliminated fragmented data reception
+- Improved connection stability and error handling
 
 ## 🤝 Contributing
 

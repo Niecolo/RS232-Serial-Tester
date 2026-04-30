@@ -1,29 +1,30 @@
 {
   "com_port": "COM5",
-  "baud_rate": 9600,
+  "baud_rate": 1200,
   "parity": "None",
   "data_bits": 8,
   "stop_bits": "One",
   "base_weight": 5555,
-  "mode": "receive",
-  "selected_command": "PRN",
+  "mode": "command",
+  "selected_command": "ST",
   "custom_command": "",
   "delay_time": 1000,
   "auto_reconnect": false,
   "reconnect_interval": 5000,
   "log_to_file": true,
   "show_timestamps": true,
-  "window_geometry": "1366x697+156+29",
+  "window_geometry": "1366x697+104+29",
   "recent_commands": [
+    "ST",
+    "IP",
+    "Z",
+    "T",
     "PRN",
     "LST",
     "kjlkjlkj",
     "CP",
     "luulu",
-    "P",
-    "LULU",
-    "Esc R",
-    "IP"
+    "P"
   ],
   "max_recent_commands": 10
 }
